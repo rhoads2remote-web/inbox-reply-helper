@@ -1,0 +1,15 @@
+# Local data and secrets
+.env
+.env.*
+*.token
+token.json
+credentials.json
+client_secret*.json
+mailbox*.json
+email-export*.json
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
