@@ -1,0 +1,29 @@
+{
+  "as_of": "2026-11-09",
+  "threads": [
+    {
+      "subject": "Project timeline",
+      "summary": "Jordan asked whether the revised timeline is ready.",
+      "from_name": "Jordan",
+      "last_message_date": "2026-11-05",
+      "needs_response": true,
+      "reply_context": "the revised timeline"
+    },
+    {
+      "subject": "Coffee next week?",
+      "summary": "Sam suggested meeting next week and asked which day works.",
+      "from_name": "Sam",
+      "last_message_date": "2026-11-08",
+      "needs_response": true,
+      "reply_context": "finding a time to meet"
+    },
+    {
+      "subject": "Monthly product newsletter",
+      "summary": "A newsletter with product announcements.",
+      "from_name": "Product Updates",
+      "last_message_date": "2026-11-07",
+      "needs_response": false,
+      "reply_context": "the newsletter"
+    }
+  ]
+}
